@@ -1,15 +1,11 @@
-#ifndef MAIN
-#define MAIN
 #include "main.h"
-#include "stdio.h"
-#endif
 
 /** 
  * main - Entry point
  *
  * Return: Always 0 (Success)
  */
-main ()
+int main (void)
 {
 	char *sh = '_putchar';
 	while (*sh)
