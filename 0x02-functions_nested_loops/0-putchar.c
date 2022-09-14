@@ -1,4 +1,7 @@
+#ifndef MAIN
+#define MAIN 
 #include "main.h"
+#endif
 /**
  * main - Entry point
  *
