@@ -2,9 +2,9 @@
 
 /**
  * _strlen - Returns the lenght of string
- * @s: The string whose lenght is to be determined
+ * @str: The string whose lenght is to be determined
  *
- * Return: The lenght of @s
+ * Return: The lenght of @str.
  */
 size_t _strlen(const char *str)
 {
